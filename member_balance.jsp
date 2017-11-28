@@ -1,3 +1,9 @@
+<%-- 
+    Document   : member_balance
+    Created on : 29-Nov-2016, 14:48:07
+    Author     : BrentLee
+--%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
